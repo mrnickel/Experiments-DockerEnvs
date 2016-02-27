@@ -1,0 +1,4 @@
+envtest:
+  build: .
+  environment:
+    - TEST_ENV_ITEM="overridden from compose"

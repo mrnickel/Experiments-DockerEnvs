@@ -1,0 +1,4 @@
+envtest:
+  build: .
+  env_file:
+    - ./compose-main.env
